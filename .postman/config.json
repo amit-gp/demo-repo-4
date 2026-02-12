@@ -1,0 +1,14 @@
+{
+  "workspace": {
+    "id": "53c0765b-eea3-4971-ba9a-1b5ff70a8544"
+  },
+  "entities": {
+    "collections": [
+      "../postman/collections/Jelly Bean Wiki (Apigee - 11) - test-env.postman_collection.json"
+    ],
+    "environments": [],
+    "specs": [],
+    "flows": [],
+    "globals": []
+  }
+}
